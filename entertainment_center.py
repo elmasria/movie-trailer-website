@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# List all the movies (namem, description poster and trailer)
 toy_story = media.Movie("School of Rock",
                         "A story of a boy and his toys that come to life",
                         "https://resizing.flixster.com/dN13_DunKL1U-qm-QUIWPOID6So=/800x1200/v1.bTsxMTE2ODk2NTtqOzE2OTY5OzIwNDg7ODAwOzEyMDA",
